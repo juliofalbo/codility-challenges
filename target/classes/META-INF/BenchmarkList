@@ -1,0 +1,3 @@
+JMH S 24 benchmark.Task2Benchmark S 66 benchmark.generated.Task2Benchmark_benchmarkSecondSolution_jmhTest S 23 benchmarkSecondSolution S 11 AverageTime E A 1 1 1 E E E E E E E I 1 1 I 1 1 E E E E E U 11 NANOSECONDS E E 
+JMH S 24 benchmark.Task2Benchmark S 65 benchmark.generated.Task2Benchmark_benchmarkFirstSolution_jmhTest S 22 benchmarkFirstSolution S 11 AverageTime E A 1 1 1 E E E E E E E I 1 1 I 1 1 E E E E E U 11 NANOSECONDS E E 
+JMH S 24 benchmark.Task2Benchmark S 65 benchmark.generated.Task2Benchmark_benchmarkThirdSolution_jmhTest S 22 benchmarkThirdSolution S 11 AverageTime E A 1 1 1 E E E E E E E I 1 1 I 1 1 E E E E E U 11 NANOSECONDS E E 
